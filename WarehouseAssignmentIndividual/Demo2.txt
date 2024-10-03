@@ -1,0 +1,3 @@
+Client{First Name:'John', Last Name:'Smith', Email:'Jsmith@xyz.com', Client ID:'123456', Address:'123 street Avon, MN', Phone Number:'3204858877'}
+Client{First Name:'Jane ', Last Name:'Doe', Email:'jdoe@gmail.com', Client ID:'654321', Address:'347 Road St. Cloud, Mn', Phone Number:'3289877755'}
+Client{First Name:'Adam', Last Name:'Sandler', Email:'asandler@minnstate.edu', Client ID:'476397', Address:'389 HW Hollywood, LA', Phone Number:'3298476453'}
