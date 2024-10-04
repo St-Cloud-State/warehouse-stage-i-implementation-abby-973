@@ -15,6 +15,7 @@ public class ClientList {
     {
         return clients;
     }
+    //Add clients to list
     public void addClient(Client client) {
         clients.add(client);
         System.out.println("Client added: " + client);
